@@ -2,7 +2,7 @@
 A simple courses project Node.js [Leaning purpose ONLY]
 
 ## Installation
-After downloading code use command npm install to install all package need for run app
+After downloading code use command npm install to install all packages need for run app
 ```bash
 npm install
 ```
